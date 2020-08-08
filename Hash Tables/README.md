@@ -1,6 +1,6 @@
 ## Hash Table Programs
 
-Consists of two programs who demonstate Hash Table Functionality
+Consists of two programs who demonstate a Hash Table Data Structure
 - One will use CHAINING as a technique to avoid collisions (ChainingHashTable.java)
 - One will use PROBING as a technique to avoid collisions (ProbingHashTable.java)
 
